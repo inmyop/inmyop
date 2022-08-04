@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cyber security
 - 🤔 I’m looking for help with osint tools
 - 💬 Ask me about Ethical Hacking
-- 📫 How to reach me: telegram, Palapa
+- 📫 How to reach me: Telegram, Palapa
 - 😄 Pronouns: ... Nothing public consumption
 - ⚡ Fun fact: ... Keepxecure from Hacker:)
 
