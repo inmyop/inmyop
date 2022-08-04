@@ -1,6 +1,6 @@
 ### Hii there! I am using Whatsapp.
 
-<img src="preview.png" width="20%">
+<img src="preview.png" width="10%" align="center">
 
 - 🔭 I’m currently working on what i'm doing
 - 🌱 I’m currently learning HTB, CTF, etc
