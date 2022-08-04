@@ -10,10 +10,10 @@ I like to be productive every day and "go beyond your limits" is my personal mot
 - 🌱 I’m currently learning HackTheBox, TryHackMe, etc
 - 👯 I’m looking to collaborate on cyber security
 - 🤔 I’m looking for help with osint tools
-- 💬 Ask me about Ethical Hacking for penetration tester
+- 💬 Ask me about ...
 - 📫 How to reach me: Telegram, Palapa
-- 😄 Pronouns: ... Nothing public consumption
-- ⚡ Fun fact: ... Keepsecure from Hacker:)
+- 😄 Pronouns: Nothing public consumption
+- ⚡ Fun fact: Keepsecure from Hacker:)
 
 #### Contact Me
 [Telegram](https://t.me/inmyopini)
