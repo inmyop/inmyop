@@ -16,7 +16,10 @@ I like to be productive every day and "go beyond your limits" is my personal mot
 - ⚡ Fun fact: Keepsecure from Hacker:)
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Druzxh.png" alt="TryHackMe">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Druzxh.png" alt="TryHackMe"> 
+
+[TryHackMe](https://tryhackme.com/p/Druzxh)
 
 
 #### Contact Me
