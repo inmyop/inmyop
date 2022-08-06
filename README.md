@@ -1,6 +1,6 @@
 # KeepXecure
 ### Hii there! I am using Whatsapp.
-Silahkan kalo lagi gabut baca aja [Wiki](https://github.com/inmyop/inmyop/wiki) ini :D 
+Silahkan baca [Wiki](https://github.com/inmyop/inmyop/wiki) saya untuk beberapa catatan yang telah saya pelajari. 
 
 ### About Me
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
