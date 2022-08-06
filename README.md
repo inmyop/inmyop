@@ -2,6 +2,7 @@
 ### Hii there! I am using Whatsapp.
 Silahkan kalo lagi gabut baca aja [Wiki](https://github.com/inmyop/inmyop/wiki) ini :D 
 
+### About Me
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
 
 Use a creative approach to problem solving and adapt to all challenging situations.
