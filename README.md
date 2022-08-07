@@ -9,6 +9,8 @@ Use a creative approach to problem solving and adapt to all challenging situatio
 
 I like to be productive every day and "go beyond your limits" is my personal motto.
 
+<img src="Demonk!te-part2.png" width="50%">
+
 - 🔭 I’m currently write's up what i am learn
 - 🌱 I’m currently learning HackTheBox, TryHackMe, etc
 - 👯 I’m looking to collaborate on cyber security
@@ -16,11 +18,7 @@ I like to be productive every day and "go beyond your limits" is my personal mot
 - 📫 How to reach me: Telegram, [Palapa](https://landing.xecure.world/)
 - 😄 Pronouns: Nothing public consumption
 - ⚡ Fun fact: Keepsecure from Hacker:)
-
-
-[TryHackMe](https://tryhackme.com/p/Druzxh)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Druzxh.png" alt="TryHackMe"> 
+- :kissing: [TryHackMe Profile](https://tryhackme.com/p/Druzxh)
 
 #### Contact Me
 [Telegram](https://t.me/inmyopini)
