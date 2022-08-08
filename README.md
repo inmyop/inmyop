@@ -9,7 +9,7 @@ Use a creative approach to problem solving and adapt to all challenging situatio
 
 I like to be productive every day and "go beyond your limits" is my personal motto.
 
-<img src="Demonk!te-part2.png" width="50%">
+<img src="Demonk!te-part2.png" width="100%">
 
 - 🔭 I’m currently write's up what i am learn
 - 🌱 I’m currently learning HackTheBox, TryHackMe, etc
