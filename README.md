@@ -1,8 +1,8 @@
 # KeepXecure :indonesia:
 ### Hii there! I am using Whatsapp.
-Silahkan baca [Wiki saya](https://github.com/inmyop/inmyop/wiki) untuk beberapa catatan yang telah saya pelajari. 
+Go to [Demonk!te's Wiki](https://github.com/inmyop/inmyop/wiki). 
 
-### About Me
+#### **About Me**
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
 
 Use a creative approach to problem solving and adapt to all challenging situations.
