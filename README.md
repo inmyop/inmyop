@@ -1,6 +1,6 @@
 # KeepXecure :indonesia:
 ### Hii there! I am using Whatsapp.
-Go to [Demonk!te's Wiki](https://github.com/inmyop/inmyop/wiki). 
+Go to [Demonkite's Wiki](https://github.com/inmyop/inmyop/wiki). 
 
 #### **About Me**
 Enthusiastic, self-motivated, long-life learner, energetic and always eager to learn new skills.
